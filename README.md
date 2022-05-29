@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmrusho25
-- 👀 I’m interested in Web Developing, Software dvelping
+- 👀 I’m interested in Web development, software development
 - 🌱 I’m currently learning PHP 
 - 📫 How to reach me www.fmrusho.com or faysol198@gmail.com
 
